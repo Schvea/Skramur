@@ -1,8 +1,8 @@
 body {
     width: 1200px;
     background-color: pink;
-    /* display: flex;
-    margin: auto; */
+    margin: auto;
+    flex-wrap: wrap;
 }
 
 .head {
@@ -66,3 +66,7 @@ body {
       left: 0;    
     }
   } */
+
+  .hypno{
+    width: 100px;
+  }
